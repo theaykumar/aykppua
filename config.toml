@@ -13,6 +13,10 @@ unsafe = true
 [menu]
 desktop = []
 [[menu.main]]
+URL = "/blog"
+name = "Blog"
+weight = ""
+[[menu.main]]
 URL = "/"
 name = "Home"
 weight = ""
