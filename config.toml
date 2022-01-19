@@ -12,19 +12,19 @@ title = "Ayush Kumar"
 unsafe = true
 [[menu.desktop]]
 URL = ""
-name = "Contact"
-weight = ""
-[[menu.desktop]]
-URL = "/about"
-name = "About"
+name = "Home"
 weight = ""
 [[menu.desktop]]
 URL = "/blog"
 name = "Blog"
 weight = ""
 [[menu.desktop]]
+URL = "/about"
+name = "About"
+weight = ""
+[[menu.desktop]]
 URL = ""
-name = "Home"
+name = "Contact"
 weight = ""
 [[menu.main]]
 URL = ""
