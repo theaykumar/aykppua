@@ -38,7 +38,7 @@ weight = 5
 home = ["HTML", "RSS", "JSON"]
 [params]
 author = "Ayush Kumar"
-description = "Thoughts, Musings, Stories and Ideas."
+description = "Thoughts, Musings, Stories and Ideas"
 [params.banner]
 heading = "Ayush Kumar"
 image = ""
