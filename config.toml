@@ -10,8 +10,10 @@ theme = "github.com/themefisher/twenty-twenty-hugo"
 title = "Ayush Kumar"
 [markup.goldmark.renderer]
 unsafe = true
-[menu]
-desktop = []
+[[menu.desktop]]
+URL = ""
+name = "Home"
+weight = ""
 [[menu.main]]
 URL = "/contact"
 name = "Contact"
