@@ -60,12 +60,12 @@ title = ""
 enable = false
 gallery_item = []
 [params.social]
-email = "#"
-facebook = "#"
-instagram = "#"
-linkedin = "#"
-twitter = "#"
-yelp = "#"
+email = "theaykumar@pm.me"
+facebook = "https://facebook.com/ayushkumarpage"
+instagram = "https://instagram.com/ayushkumarpage"
+linkedin = "https://linkedin.com/in/ayushkumarpage"
+twitter = "https://twitter.com/ayushkumarpage"
+yelp = "https://yelp.com/ayushkumarpage"
 [taxonomies]
 author = "author"
 category = "categories"
