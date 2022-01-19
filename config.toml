@@ -57,11 +57,8 @@ copyright = "Copyright &copy; 2022 Ayush Kumar"
 hours = ""
 title = ""
 [params.gallery]
-enable = true
-[[params.gallery.gallery_item]]
-image = "images/2020-square-2.png"
-[[params.gallery.gallery_item]]
-image = "images/2020-square-1.png"
+enable = false
+gallery_item = []
 [params.social]
 email = "#"
 facebook = "#"
