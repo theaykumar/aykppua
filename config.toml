@@ -43,7 +43,7 @@ description = "Thoughts, Musings, Stories and Ideas"
 heading = "Ayush Kumar"
 image = ""
 [params.blog]
-heading = "Articles"
+heading = "Posts"
 [params.call_to_action]
 button_label = ""
 button_url = ""
