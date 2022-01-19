@@ -51,10 +51,10 @@ content = ""
 enable = false
 title = ""
 [params.footer]
-address = ""
+address = "Mumbai, Maharashtra, India - 400072"
 content = ""
 copyright = "Copyright &copy; 2022 Ayush Kumar"
-hours = ""
+hours = "9:00 AM - 12:00 AM"
 title = ""
 [params.gallery]
 enable = false
