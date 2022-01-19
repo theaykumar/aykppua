@@ -10,6 +10,9 @@ theme = "github.com/themefisher/twenty-twenty-hugo"
 title = "Ayush Kumar"
 [markup.goldmark.renderer]
 unsafe = true
+[menu]
+desktop = []
+main = []
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
