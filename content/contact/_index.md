@@ -11,4 +11,4 @@ menu:
 ---
 Contact :-
 
-hey@ayk.pp.ua
+hey\[at\]ayk.pp.ua
