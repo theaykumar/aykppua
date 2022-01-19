@@ -10,37 +10,11 @@ theme = "github.com/themefisher/twenty-twenty-hugo"
 title = "Ayush Kumar"
 [markup.goldmark.renderer]
 unsafe = true
-[[menu.desktop]]
-URL = ""
-name = "Home"
-weight = ""
-[[menu.desktop]]
-URL = "/blog"
-name = "Blog"
-weight = ""
-[[menu.desktop]]
-URL = "/about"
-name = "About"
-weight = ""
-[[menu.desktop]]
-URL = ""
-name = "Contact"
-weight = ""
+[menu]
+desktop = []
 [[menu.main]]
 URL = ""
 name = "Home"
-weight = ""
-[[menu.main]]
-URL = "/blog"
-name = "Blog"
-weight = ""
-[[menu.main]]
-URL = "/about"
-name = "About"
-weight = ""
-[[menu.main]]
-URL = "/contact"
-name = "Contact"
 weight = ""
 [outputs]
 home = ["HTML", "RSS", "JSON"]
