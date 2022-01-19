@@ -9,6 +9,6 @@ menu:
     weight: 4
 
 ---
-Contact :-
+You can contact me via email :-
 
-hey\[at\]ayk.pp.ua
+[hey@ayk.pp.ua](mailto:hey@ayk.pp.ua)
