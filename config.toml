@@ -12,7 +12,10 @@ title = "Ayush Kumar"
 unsafe = true
 [menu]
 desktop = []
-main = []
+[[menu.main]]
+URL = "/"
+name = "Home"
+weight = ""
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
