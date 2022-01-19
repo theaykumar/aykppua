@@ -10,6 +10,12 @@ theme = "github.com/themefisher/twenty-twenty-hugo"
 title = "Ayush Kumar"
 [markup.goldmark.renderer]
 unsafe = true
+[[menu.desktop]]
+name = "Home"
+weight = 1
+[[menu.main]]
+name = "Home"
+weight = 1
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
