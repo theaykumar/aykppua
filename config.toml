@@ -11,6 +11,10 @@ title = "Ayush Kumar"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.desktop]]
+URL = "/about"
+name = "About"
+weight = ""
+[[menu.desktop]]
 URL = "/blog"
 name = "Blog"
 weight = ""
