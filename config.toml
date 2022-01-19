@@ -11,16 +11,34 @@ title = "Ayush Kumar"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.desktop]]
+URL = "contact"
+name = "Contact"
+weight = 1
+[[menu.main]]
+URL = "/"
 name = "Home"
 weight = 1
 [[menu.main]]
-name = "Home"
-weight = 1
+URL = "about"
+name = "About"
+weight = 2
+[[menu.main]]
+URL = "blog"
+name = "Blog"
+weight = 3
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 4
+[[menu.main]]
+URL = "sample-page"
+name = "Sample Page"
+weight = 5
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
 author = "Ayush Kumar"
-description = "Ayush Kumar"
+description = "Thoughts, Musings, Stories and Ideas."
 [params.banner]
 heading = "Ayush Kumar"
 image = ""
