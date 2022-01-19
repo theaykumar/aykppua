@@ -37,8 +37,8 @@ weight = 5
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-author = "Themefisher"
-description = "This is meta description"
+author = "Ayush Kumar"
+description = "Ayush Kumar"
 [params.banner]
 heading = "Ayush Kumar"
 image = ""
